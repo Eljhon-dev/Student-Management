@@ -13,7 +13,7 @@ choice 4 - Shows all the students even the updated ones.
 choice 5 - Exit the program.
 
 ## Usage
-beginner in learninng JAVA LAnguage
+beginner in learninng JAVA Language
 
 ## Contributing
 Feel free to tell submit issues or request so I could improve my coding skills
